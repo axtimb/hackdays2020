@@ -1,0 +1,9 @@
+.vscode
+DIEMO
+Test
+df_total.csv
+df_total.feather
+DIEMO.zip
+metervalues_anonymized.csv
+run.bat
+diemo_get_data.py
